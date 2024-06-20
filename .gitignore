@@ -1,0 +1,13 @@
+*.docx
+*.aux
+*.log
+*.fls
+*.tex
+*.png
+*.fdb_latexmk
+*.synctex.gz
+*.ipynb
+MOD202_Lecture 1.pdf
+MOD202_Lecture3_notes.pdf
+MOD202-Lecture 2_notes.pdf
+.DS_Store
