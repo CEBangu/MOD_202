@@ -1,7 +1,7 @@
 # Introduction to Computational Neuroscience (Theory)
 
 This repository contains my course work for Computational Neuroscience (Theory) at ENS (Master in Cognitive Science [Cogmaster]), in 2024. It is organized by homework. 
-The course focused on the mathematical foundations.
+The course focused on the mathematical foundations. For a more in-depth treatment, see MOD_201.
 
 ## Excercise 1: Perceptron & Hoppfield
 This homework covers the basics of the perceptron: linear seperability, and update rules, as well as Hoppfield networks.  
