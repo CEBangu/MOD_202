@@ -1,6 +1,6 @@
 # Introduction to Computational Neuroscience (Theory)
 
-This repository contains my course work for Computational Neuroscience (Theory), at ENS Cogmaster, 2024. It is organized by homework. 
+This repository contains my course work for Computational Neuroscience (Theory) at ENS (Master in Cognitive Science [Cogmaster]), in 2024. It is organized by homework. 
 The course focused on the mathematical foundations.
 
 ## Excercise 1: Perceptron & Hoppfield
